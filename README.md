@@ -6,12 +6,16 @@
 
 <!-- Sección "Sobre mí" con formato YAML para un aspecto limpio y profesional -->
 ```yaml
-nombre: "Tu nombre"
-profesión: "Tu profesión u ocupación"
+nombre: "Mathias Arias"
+profesión: "Fullstack Developer"
 ubicación: "Asunción, Paraguay"
-resumen: >-
-  Escribe una breve descripción sobre tus intereses, los proyectos en los que estás trabajando y
-  qué tipo de colaboraciones u oportunidades estás buscando.
+resumen: Desarrollador Full-Stack JavaScript/TypeScript orientado a producto, con experiencia construyendo
+aplicaciones web modernas de principio a fin: frontend en React/Next.js, backend en Node.js y bases de datos
+SQL/NoSQL.
+Acostumbrado a trabajar con arquitecturas modulares, autenticación, paneles de administración, paneles de
+clientes, dashboards y consumo/diseño de APIs REST. Me gusta tomar ideas desde cero, diseñar la arquitectura,
+implementarla y desplegarla en producción, manteniendo buenas prácticas (clean code, componentes
+reutilizables, control de versiones y CI/CD)..
 ```
 
 ### Habilidades y tecnologías
@@ -29,10 +33,10 @@ resumen: >-
 
 <p align="left">
   <!-- Sustituye los enlaces por los de tus propias cuentas -->
-  <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/mathias-arias-/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="mailto:TUCORREO@example.com">
+  <a href="mailto:mathi.fer069@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="30" height="30" />
   </a>
   <!-- Añade más iconos de redes o medios de contacto si lo consideras necesario -->
